@@ -126,7 +126,12 @@ button {
 .foot-nav li {
     display: inline;
     list-style-type: none;
-    padding: 10px
+    padding: 10px;
+}
+
+.foot-nav a {
+    color: dodgerblue;
+    text-decoration: none;
 }
 
 .copyright {
